@@ -1,3 +1,9 @@
+// Vice Panels — a gta6-cover-art-01 entry (Node 22, standard library only).
+// The app is this directory's app/ folder: an offline multi-panel cover maker
+// (slanted photo panels, colour grades, bold caption, PNG export at 1920x1080,
+// 1080x1080 and 1080x1350). This program hands it in: it copies app/ and
+// screenshots/ from beside this file to /output and writes /output/dossier.json
+// with the vendored make.fun library.
 // A working gta6-cover-art-01 entry (Node 22, standard library only): the app is this directory's app/ folder, plain
 // static files a desktop browser loads offline (app/index.html and its ES modules, no library and no network
 // request), and the program hands it in. It copies app/ and screenshots/ from beside this file to /output and writes
